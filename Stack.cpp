@@ -140,6 +140,8 @@ void pop (){
     }
 
 };
+
+//Fungsi cetak
 void cetak (){
     if (isEmpty()){
         cout << "Stack kosong !!" << endl;
